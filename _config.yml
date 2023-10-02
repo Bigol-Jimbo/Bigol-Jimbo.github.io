@@ -39,15 +39,15 @@ store:
     weight: false
     karma: true
     quantity: true
-    mod: true
+    mod: false
     usage: true
   events:
     usage: true
-    mod: true
+    mod: false
   animals:
     usage: true
-    mod: true
-    weight: true
+    mod: false
+    weight: false
     quantity: true
     karma: true
 
